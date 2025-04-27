@@ -4,7 +4,7 @@ This is a PyQGIS script developed as a requirement for the Graduate Certificate 
 It summarizes forest stand data to rate cougar habitat suitability based on tree species, height, diameter, and cover type.
 
 For educational purposes only.
-© 2025 COGS. Created by Brian Gauthier, October 20, 2024.
+© 2024 COGS. Created by Brian Gauthier, October 20, 2024.
 
 ## Requirements
 - QGIS 3.38.2 or higher installed
