@@ -12,7 +12,7 @@ For educational purposes only.
 
 ## Usage
 1. Open QGIS.
-2. Load your forest stand shapefile and ensure layer is selected.
+2. Load forest2024.shp and ensure layer is selected.
 3. Open the Python Console or Processing Toolbox.
 4. Run the script.
 
